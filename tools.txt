@@ -1,0 +1,6 @@
+git 
+ec2 
+aws 
+jenkins
+maven
+docker
